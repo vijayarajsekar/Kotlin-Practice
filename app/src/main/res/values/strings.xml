@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Kotlin Lesson 1</string>
+
+
+    <array name="MenuList">
+
+        <item name="m1">Lesson 1</item>
+        <item name="m2">Lesson 2</item>
+
+    </array>
+
 </resources>
